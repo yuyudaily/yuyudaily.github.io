@@ -7,7 +7,7 @@
 	$.fn.navList = function() {
 
 		var	$this = $(this);
-			$a = $this.find('a'),
+			$a = $this.find('c'),
 			b = [];
 
 		$a.each(function() {
